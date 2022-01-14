@@ -16,7 +16,9 @@
 ## Data
  The dataset used in this project comes from a Kaggle prediction competition (Machine Learning), .csv files compiled by Dean De Cook for educational purposes. 
  The data observes during a period between 2006 and 2010, 80 features of many physical attributes of 1459 residential properties in Ames, Iowa, that are taken into consideration  when buying a house.
+ 
  The features displayed in the data set are:
+ 
  1.	SalePrice - the property's sale price in dollars. This is the target variable that you're trying to predict.
  2.	MSSubClass: The building class
  3.	MSZoning: The general zoning classification
