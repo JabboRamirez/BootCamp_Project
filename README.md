@@ -16,7 +16,7 @@
 ## Data
 The dataset used in this project comes from a Kaggle prediction competition (Machine Learning), .csv files compiled by Dean De Cook for educational purposes. 
 
-The data observes during a period between 2006 and 2010, 80 features of many physical attributes ([data_description.txt](https://github.com/JabboRamirez/BootCamp_Project/files/7867192/data_description.txt)) of 1459 residential properties in Ames, Iowa, that are taken into consideration when buying a house, access the data base in the following link [train.csv](https://github.com/JabboRamirez/BootCamp_Project/files/7867205/train.csv)
+The data observes during a period between 2006 and 2010, 80 features of many physical attributes ([data_description.txt](https://github.com/JabboRamirez/BootCamp_Project/files/7867192/data_description.txt)) of 1459 residential properties in Ames, Iowa, that are taken into consideration when buying a house, access the data base in the following links [train.csv](https://github.com/JabboRamirez/BootCamp_Project/files/7867205/train.csv)
 [test.csv](https://github.com/JabboRamirez/BootCamp_Project/files/7867206/test.csv). 
 
 To address the question of how much a house cost based on the different features, the data was processed/cleansed by assessing weather the feature is key or not to determine  the prices of the house. 
