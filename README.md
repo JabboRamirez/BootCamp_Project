@@ -3,6 +3,7 @@
 ## Overview of the Project
 
   * Develop and evaluate a model while using tools like PGadmin and Tableau to predict house prices in Ames, Iowa.
+  * 
 
 ## Tools used 
 
@@ -12,4 +13,4 @@
   * Visual Code
   * Tableau
 
-## 
+## Communication Protocols
