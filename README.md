@@ -7,7 +7,7 @@
 ## Tools used 
 
   * Python
-  * PGadmin
+  * PGadmin/SQL
   * Jupyter Notebook
   * Visual Code
   * Tableau
