@@ -1,5 +1,7 @@
 config.py
 Export_DF_Postgres_Practice.ipynb
+Connecting_Postgres.ipynb
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
