@@ -31,4 +31,8 @@ Python -> Jupyter noteboook -> PgAdmin -> SQLAlchemy -> Tableau
 * First, the information from both  [train.csv](https://github.com/JabboRamirez/BootCamp_Project/files/7867205/train.csv) and [test.csv](https://github.com/JabboRamirez/BootCamp_Project/files/7867206/test.csv) was ran through a code in python/Jupyter Notebook to clean the data of null values and irrelevant information that doesnt affect the price of any of the houses. 
 * Second, we applied the clean file train_clean.csv to PGadmin by running a SQL code to create a database. 
 
+## Link to the Google slide precentation:
+
+https://github.com/JabboRamirez/BootCamp_Project
+
 
