@@ -33,6 +33,6 @@ Python -> Jupyter noteboook -> PgAdmin -> SQLAlchemy -> Tableau
 
 ## Link to the Google slide precentation:
 
-https://github.com/JabboRamirez/BootCamp_Project
+https://docs.google.com/presentation/d/1ar3zJimIbIBp_f1oIs8sqTa2pa7_hjVMsRKenYktXIE/edit#slide=id.g10e9a3a0275_0_37
 
 
