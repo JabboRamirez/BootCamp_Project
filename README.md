@@ -31,8 +31,6 @@ Python -> Jupyter noteboook -> PgAdmin -> SQLAlchemy -> Tableau
 * First, the information from both  [train.csv](https://github.com/JabboRamirez/BootCamp_Project/files/7867205/train.csv) and [test.csv](https://github.com/JabboRamirez/BootCamp_Project/files/7867206/test.csv) was ran through a code in python/Jupyter Notebook to clean the data of null values and irrelevant information that doesnt affect the price of any of the houses. 
 * Second, we applied the clean file train_clean.csv to PGadmin by running a SQL code to create a database. 
 
-## Link to the Google slide precentation:
-
-https://docs.google.com/presentation/d/1ar3zJimIbIBp_f1oIs8sqTa2pa7_hjVMsRKenYktXIE/edit#slide=id.g10e9a3a0275_0_37
-
-
+## Links to Final Project
+[Presentation](https://docs.google.com/presentation/d/1ar3zJimIbIBp_f1oIs8sqTa2pa7_hjVMsRKenYktXIE/edit#slide=id.g10e9a3a0275_0_37)
+[Tableau Public Story](https://public.tableau.com/app/profile/hanna.bustamante/viz/HousingPricePrediction/Story1)
