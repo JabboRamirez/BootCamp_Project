@@ -32,5 +32,5 @@ Python -> Jupyter noteboook -> PgAdmin -> SQLAlchemy -> Tableau
 * Second, we applied the clean file train_clean.csv to PGadmin by running a SQL code to create a database. 
 
 ## Links to Final Project
-[Presentation](https://docs.google.com/presentation/d/1ar3zJimIbIBp_f1oIs8sqTa2pa7_hjVMsRKenYktXIE/edit#slide=id.g10e9a3a0275_0_37)
-[Tableau Public Story](https://public.tableau.com/app/profile/hanna.bustamante/viz/HousingPricePrediction/Story1)
+* [Presentation](https://docs.google.com/presentation/d/1ar3zJimIbIBp_f1oIs8sqTa2pa7_hjVMsRKenYktXIE/edit#slide=id.g10e9a3a0275_0_37)
+* [Tableau Public Story](https://public.tableau.com/app/profile/hanna.bustamante/viz/HousingPricePrediction/Story1)
